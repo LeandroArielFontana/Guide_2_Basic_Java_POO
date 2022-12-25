@@ -10,13 +10,13 @@ package ejercicioE02;
 public class EjercicioE02 {
 
     public static void main(String[] args) {
-        PuntoService pService = new PuntoService();
-        Punto p1 = new Punto();
-        Punto p2 = new Punto();
+        PuntoService puntoService = new PuntoService();
+        Punto puntoUno = new Punto();
+        Punto puntoDos = new Punto();
 
-        pService.crearPuntos(p1);
-        pService.crearPuntos(p2);
+        puntoService.crearPuntos(puntoUno);
+        puntoService.crearPuntos(puntoDos);
 
-        System.out.println("La distancia sera de : " + pService.diferenciaPuntos(p1, p2));
+        System.out.println("La distancia sera de : " + puntoService.diferenciaPuntos(puntoUno, puntoDos));
     }
 }

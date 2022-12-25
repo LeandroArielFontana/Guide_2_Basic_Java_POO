@@ -1,0 +1,67 @@
+
+a
+java:S1192{"KDefine a constant instead of duplicating this literal "----------" 7 times.(ã€‡’
+\
+java:S2184¦"@Cast one of the operands of this integer division to a "double".(š¨ÓÏıÿÿÿÿ
+W
+java:S2184§"@Cast one of the operands of this integer division to a "double".(ßÎĞ•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã‚…
+M
+java:S1135$"2Complete the task associated to this TODO comment.(Äƒûîıÿÿÿÿ
+=
+java:S11256"'Remove the unnecessary boolean literal.(©°®
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(éˆ÷o
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(À÷Ëôùÿÿÿÿ
+W
+java:S1854A"<Remove this useless assignment to local variable "bajoPeso".(Ü²êåûÿÿÿÿ
+T
+java:S1854E">Remove this useless assignment to local variable "pesoNormal".(à›€„
+X
+java:S1854I"=Remove this useless assignment to local variable "sobrepeso".(¡·Ñ…øÿÿÿÿ
+<	java:S131>""Add a default case to this switch.(·ÉûÙûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(“’˜
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ãõş¶ûÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(îÌõÆ
+D
+java:S1905S")Remove this unnecessary cast to "double".(­ÍÏ‘øÿÿÿÿ
+?
+java:S1905T")Remove this unnecessary cast to "double".(²‡õÿ
+D
+java:S1905U")Remove this unnecessary cast to "double".(«»ºäüÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¬‚‚˜şÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ÀğŞŞ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(™°±ˆüÿÿÿÿ
+]
+java:S1854m"GRemove this useless assignment to local variable "resultadoPesoNormal".(äÂŞ©
+`
+java:S1854l"ERemove this useless assignment to local variable "resultadoPesoBajo".(‹„¨‚øÿÿÿÿ
+\
+java:S1854k"FRemove this useless assignment to local variable "resultadoSobrepeso".(å¡Ô×
+X
+java:S1854j"BRemove this useless assignment to local variable "resultadoMenor".(™óŒ¼
+]
+java:S1854i"BRemove this useless assignment to local variable "resultadoMayor".(‰„ÓÒüÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ì°„¢
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ãúƒ¹ùÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(¬¤Ù
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ê®Ô¿ùÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(ã€‡’
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(µñµõøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã€‡’
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ò¯Ïüÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ã€‡’
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ãìÃ 
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ã€‡’
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ğ’Áôøÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ã€‡’
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(¡ÒØøÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(ô¼ß›üÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(ã€‡’
+8	java:S131³""Add a default case to this switch.(²İñæ
+8	java:S131¿""Add a default case to this switch.(‹Ú„
+8	java:S131Ë""Add a default case to this switch.(ñÖÔ¿
+=	java:S131×""Add a default case to this switch.(Ê‡‹Øÿÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(ã€‡’
+N	java:S106è"9Replace this use of System.out or System.err by a logger.(Ë”Ş
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(åò¸æøÿÿÿÿ
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(‡«ÑÉ
